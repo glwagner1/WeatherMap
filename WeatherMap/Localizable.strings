@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  WeatherMap
+
+  Created by Gary Wagner on 5/4/17.
+  Copyright © 2017 Gary Wagner. All rights reserved.
+*/
+
+"enterData" = "Enter City Name and State Code";
+"cityInvalid" = "City Name Invalid";
+"stateInvalid" = "State Code Invalid, must be 2 characters";
+"enterData" = "Enter City Name and State Code";
